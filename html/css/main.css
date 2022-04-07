@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
-.bg-button { background: #646475!important; }
+.bg-button { background: #00d9ff!important; }
 .text-check { color: rgba(255, 255, 255, 0.8)!important; }
-.text-checkbox { color: #0fffd5!important; }
+.text-checkbox { color: #eeff00!important; }
 .q-checkbox__svg { color: #000!important; }
 div#q-loading-bar { display: none!important; }
 ::-webkit-scrollbar { display: none!important; }
-.q-card { background: rgb(35, 34, 56)!important; }
+.q-card { background: rgb(0, 17, 255)!important; }
 p { margin: 0 !important; }
 .q-btn { align-items: center!important; }
 .text-h6 { color: #fff; }
@@ -75,7 +75,7 @@ input[type=number]::-webkit-outer-spin-button {
     width: 134.8%;
     margin-left: -1.5%;
     margin-top: 6.3%;
-    background-color: rgb(39 39 49);
+    background-color: rgb(250, 246, 4);
 }
 
 .pro {
